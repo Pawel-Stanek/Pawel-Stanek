@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an engineer with two years of experience in production. I have decided to change my career path, aiming to become a web developer. Although my previous experience does not directly involve this field, my interest in programming microprocessors has led me to pursue this path. Currently, I am actively developing skills in programming AVR microprocessors, and then I plan to expand my knowledge to STM32.
 
 <!--
 **Pawel-Stanek/Pawel-Stanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
